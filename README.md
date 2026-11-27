@@ -41,6 +41,7 @@
 | Minecraft Wiki（中文） | https://zh.minecraft.wiki | 官方合作中文维基，条目最全 |
 | Minecraft Wiki（英文） | https://minecraft.wiki | 英文维基，更新最快 |
 | MC百科（mcmod.cn） | https://www.mcmod.cn | 中文最全的模组资料库，含教程与下载指引 |
+| mcguide 我的世界中文攻略百科 | https://mcguide.cn/zh/ | 中英双语攻略与资料站：结构化合成表、实测种子库、模组与建筑教程及在线工具，每条目单独标注适用版本 |
 
 ## 版本下载与启动器
 
