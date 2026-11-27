@@ -120,6 +120,7 @@
 | Amidst | https://github.com/toolbox4minecraft/amidst | 种子地图预览（老版本） |
 | ChunkSeeds | https://chunkseeds.com | 在线种子地图：Java / 基岩版生物群系与结构坐标，带可检索种子库 |
 | Block Models | https://www.blockmodels.com | 方块模型分享与下载 |
+| Minecraft Pixel Art | https://minecraft-pixel-art.com/editor/blueprint | Free image-to-block blueprints, material lists and PNG build plans. |
 
 ## 开发者资源
 
